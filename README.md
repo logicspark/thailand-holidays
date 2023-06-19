@@ -36,7 +36,8 @@ Here is an example of holiday data in JSON format
 
 ```json
 {
-  "name": "วันขึ้นปีใหม่",
+  "nameTh": "วันขึ้นปีใหม่",
+  "nameEn": "New year day",
   "date": "2023-01-01",
   "holidayTypes": [
     "Public",
@@ -50,7 +51,8 @@ Here is an example of holiday data in JSON format
 
 | Key            | Type     | Description                    |
 | :------------- | :------- | :----------------------------- |
-| `name` | `string` | Holiday Name |
+| `nameTh` | `string` | Holiday Name |
+| `nameEn` | `string` | Holiday Name |
 | `date` | `string` | Holiday Date |
 | `holidayTypes` | `array` | Holiday Types (Public and Government) |
 | `note` | `string` | Holiday Description |
