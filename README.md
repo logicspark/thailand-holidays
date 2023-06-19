@@ -1,10 +1,11 @@
 <div align="center">
-	<h1> Thailand Holidays </h1>
+	<h1> My Holiday API </h1>
   
  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/logicspark/thailand-holidays/blob/main/LICENSE)
 
  <p align=center> 
-	 Makes it easy to access holiday information for Thailand and create you own holiday. You can download a JSON file or make API requests to retrieve holiday data. Developed by <a href="https://www.logicspark.com">Logic Spark</a> team.
+	 Complete Thailand holiday database in Thai and English. Public data is available in JSON format 
+while your holiday data may be requested via a REST API. Developed by <a href="https://www.logicspark.com">Logic Spark</a> team.
 </p>
 
 <a id="readme-top"></a>
@@ -43,7 +44,7 @@ Here is an example of holiday data in JSON format
     "Public",
     "Government"
   ],
-  "note": "String"
+  "note": "My holiday"
 }
 ```
 
