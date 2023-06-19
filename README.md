@@ -52,7 +52,7 @@ Here is an example of holiday data in JSON format
 | :------------- | :------- | :----------------------------- |
 | `name` | `string` | Holiday Name |
 | `date` | `string` | Holiday Date |
-| `holidayTypes` | `array` | Holiday Types |
+| `holidayTypes` | `array` | Holiday Types (Public and Government) |
 | `note` | `string` | Holiday Description |
 
 
