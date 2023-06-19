@@ -1,0 +1,130 @@
+{
+   "holidays": [
+      {
+         "name": "วันขึ้นปีใหม่",
+         "date": "2023-01-01",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันจักรี",
+         "date": "2023-04-06",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันสงกรานต์",
+         "date": "2023-04-13",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันสงกรานต์",
+         "date": "2023-04-14",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันสงกรานต์",
+         "date": "2023-04-15",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันแรงงาน",
+         "date": "2023-05-01",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันฉัตรมงคล",
+         "date": "2023-05-04",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันเฉลิมฯ พระราชินี",
+         "date": "2023-06-03",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันเฉลิมฯ ร.10",
+         "date": "2023-07-28",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันคล้ายวันสวรรคต ร.9",
+         "date": "2023-10-13",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันปิยมหาราช",
+         "date": "2023-10-23",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันพ่อ",
+         "date": "2023-12-05",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันรัฐธรรมนูญ",
+         "date": "2023-12-10",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      },
+      {
+         "name": "วันสิ้นปี",
+         "date": "2023-12-31",
+         "holidayTypes": [
+            "Public",
+            "Government"
+         ],
+         "note": null
+      }
+   ]
+}
