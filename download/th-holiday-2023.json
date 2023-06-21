@@ -1,130 +1,248 @@
-{
-   "holidays": [
-      {
-         "name": "วันขึ้นปีใหม่",
-         "date": "2023-01-01",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันจักรี",
-         "date": "2023-04-06",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันสงกรานต์",
-         "date": "2023-04-13",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันสงกรานต์",
-         "date": "2023-04-14",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันสงกรานต์",
-         "date": "2023-04-15",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันแรงงาน",
-         "date": "2023-05-01",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันฉัตรมงคล",
-         "date": "2023-05-04",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันเฉลิมฯ พระราชินี",
-         "date": "2023-06-03",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันเฉลิมฯ ร.10",
-         "date": "2023-07-28",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันคล้ายวันสวรรคต ร.9",
-         "date": "2023-10-13",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันปิยมหาราช",
-         "date": "2023-10-23",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันพ่อ",
-         "date": "2023-12-05",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันรัฐธรรมนูญ",
-         "date": "2023-12-10",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      },
-      {
-         "name": "วันสิ้นปี",
-         "date": "2023-12-31",
-         "holidayTypes": [
-            "Public",
-            "Government"
-         ],
-         "note": null
-      }
-   ]
-}
+[
+   {
+      "nameTh": "วันขึ้นปีใหม่",
+      "nameEn": "New Year's Day",
+      "date": "2023-01-01",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันหยุดชดเชยวันขึ้นปีใหม่",
+      "nameEn": "Day off for New Year's Day",
+      "date": "2023-01-02",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันมาฆบูชา",
+      "nameEn": "Makha Bucha",
+      "date": "2023-01-06",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันจักรี",
+      "nameEn": "Chakri Memorial Day",
+      "date": "2023-04-06",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันสงกรานต์",
+      "nameEn": "Songkran Festival",
+      "date": "2023-04-13",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันสงกรานต์",
+      "nameEn": "Songkran Festival",
+      "date": "2023-04-14",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันสงกรานต์",
+      "nameEn": "Songkran Festival",
+      "date": "2023-04-15",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันหยุดชดเชยวันสงกรานต์",
+      "nameEn": "Day off for Songkran",
+      "date": "2023-04-17",
+      "holidayTypes": [
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันแรงงาน",
+      "nameEn": "Labour Day",
+      "date": "2023-05-01",
+      "holidayTypes": [
+         "Public"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันฉัตรมงคล",
+      "nameEn": "Coronation Day",
+      "date": "2023-05-04",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันพระราชพิธีพืชมงคลฯ",
+      "nameEn": "Royal Ploughing Ceremony Day",
+      "date": "2023-05-17",
+      "holidayTypes": [
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันวิสาขบูชา",
+      "nameEn": "Visakha Bucha",
+      "date": "2023-06-03",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าฯ พระบรมราชินี ",
+      "nameEn": "Queen Suthida's Birthday",
+      "date": "2023-06-03",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันหยุดชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าฯ พระบรมราชินีและวันวิสาขบูชา",
+      "nameEn": "Day off for Queen Suthida's Birthday and Visakha Bucha",
+      "date": "2023-06-05",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันพระบรมราชสมภพ พระบาทสมเด็จพระปรเมนทรรามาธิบดีศรีสินทรมหาวชิราลงกรณ พระวชิรเกล้าเจ้าอยู่หัว",
+      "nameEn": "King Vajiralongkorn's Birthday",
+      "date": "2023-07-28",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันอาสาฬหบูชา",
+      "nameEn": "Asalha Puja Day",
+      "date": "2023-08-01",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันเข้าพรรษา",
+      "nameEn": "Buddhist Lent day",
+      "date": "2023-08-02",
+      "holidayTypes": [
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันเฉลิมพระชนมพรรษา สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง",
+      "nameEn": "Mother's Day (Queen Sirikit’s Birthday)",
+      "date": "2023-08-12",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันหยุดชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระบรมราชชนนีพันปีหลวงและวันแม่แห่งชาติ ",
+      "nameEn": "Day off for Mother's Day (Queen Sirikit’s Birthday)",
+      "date": "2023-08-14",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันคล้ายวันสวรรคต พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร",
+      "nameEn": "King Bhumibol Adulyadej Memorial Day",
+      "date": "2023-10-13",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันปิยมหาราช",
+      "nameEn": "Chulalongkorn Memorial Day",
+      "date": "2023-10-23",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันคล้ายวันพระบรมราชสมภพ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร",
+      "nameEn": "Father's Day (King Bhumibol Adulyadej ‘s Birthday)",
+      "date": "2023-12-05",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันรัฐธรรมนูญ",
+      "nameEn": "Constitiution Day",
+      "date": "2023-12-10",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   },
+   {
+      "nameTh": "วันหยุดชดเชยวันรัฐธรรมนูญ",
+      "nameEn": "Day off for Constitution Day",
+      "date": "2023-12-11",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
+   },
+   {
+      "nameTh": "วันสิ้นปี",
+      "nameEn": "New Year's Eve",
+      "date": "2023-12-31",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": ""
+   }
+]
