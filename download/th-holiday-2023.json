@@ -22,7 +22,7 @@
    {
       "nameTh": "วันมาฆบูชา",
       "nameEn": "Makha Bucha",
-      "date": "2023-01-06",
+      "date": "2023-03-06",
       "holidayTypes": [
          "Public",
          "Government"
@@ -98,20 +98,20 @@
       "note": ""
    },
    {
-      "nameTh": "วันพระราชพิธีพืชมงคลฯ",
-      "nameEn": "Royal Ploughing Ceremony Day",
-      "date": "2023-05-17",
+      "nameTh": "วันหยุดราชการที่กำหนดเพิ่มเป็นกรณีพิเศษ",
+      "nameEn": "Bridge Public Holiday",
+      "date": "2023-05-05",
       "holidayTypes": [
+         "Public",
          "Government"
       ],
       "note": null
    },
    {
-      "nameTh": "วันวิสาขบูชา",
-      "nameEn": "Visakha Bucha",
-      "date": "2023-06-03",
+      "nameTh": "วันพระราชพิธีพืชมงคลฯ",
+      "nameEn": "Royal Ploughing Ceremony Day",
+      "date": "2023-05-17",
       "holidayTypes": [
-         "Public",
          "Government"
       ],
       "note": null
@@ -125,6 +125,16 @@
          "Government"
       ],
       "note": ""
+   },
+   {
+      "nameTh": "วันวิสาขบูชา",
+      "nameEn": "Visakha Bucha",
+      "date": "2023-06-03",
+      "holidayTypes": [
+         "Public",
+         "Government"
+      ],
+      "note": null
    },
    {
       "nameTh": "วันหยุดชดเชยวันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าฯ พระบรมราชินีและวันวิสาขบูชา",
