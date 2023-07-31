@@ -1,11 +1,10 @@
 <div align="center">
-	<h1> My Holiday API </h1>
+	<h1> Thailand Holidays for 2023 </h1>
   
  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/logicspark/thailand-holidays/blob/main/LICENSE)
 
  <p align=center> 
-	 Complete Thailand holiday database in Thai and English. Public data is available in JSON format 
-while your holiday data may be requested via a REST API. Developed by <a href="https://www.logicspark.com">Logic Spark</a> team.
+	 Complete Thailand holidays for 2023 in Thai and English. Public data is available in JSON format. Gather and verified by <a href="https://www.logicspark.com">Logic Spark</a> team.
 </p>
 
 <a id="readme-top"></a>
@@ -22,12 +21,13 @@ while your holiday data may be requested via a REST API. Developed by <a href="h
 
 ## :open_book: Overview
 
-Provides a wide range of holidays, including public holidays and government holidays, as well as the flexibility to create your own personalized holidays. We have created a user-friendly interface website that you can review holiday data and craft your own calendar.
+Provides a database of Thailand holidays including public holidays and government holidays. We have created a simple [website](https://mha.logicspark.com) to review the data. Have fun exploring :sunglasses:
 
+_Note: At the moment, we provide Thailand holidays for 2023._
 
 ## :rocket: Getting Started
 
-In the subsequent subsections, we will display the data structure of Thailand holiday. The sample data will be in JSON format. Let's get started!
+In the subsequent subsections, we will display the data structure of Thailand holidays. The sample data will be in JSON format. Let's get started!
 
 ## :card_file_box: Sample Data
 
@@ -40,24 +40,20 @@ Here is an example of holiday data in JSON format
   "nameTh": "วันขึ้นปีใหม่",
   "nameEn": "New year day",
   "date": "2023-01-01",
-  "holidayTypes": [
-    "Public",
-    "Government"
-  ],
+  "holidayTypes": ["Public", "Government"],
   "note": "My holiday"
 }
 ```
 
 #### JSON Key Description
 
-| Key            | Type     | Description                    |
-| :------------- | :------- | :----------------------------- |
-| `nameTh` | `string` | Holiday Name |
-| `nameEn` | `string` | Holiday Name |
-| `date` | `string` | Holiday Date |
-| `holidayTypes` | `array` | Holiday Types (Public and Government) |
-| `note` | `string` | Holiday Description |
-
+| Key            | Type     | Description                               |
+| :------------- | :------- | :---------------------------------------- |
+| `nameTh`       | `string` | Holiday name in Thai                      |
+| `nameEn`       | `string` | Holiday name in English                   |
+| `date`         | `string` | Holiday date                              |
+| `holidayTypes` | `array`  | Holiday types (`public` and `government`) |
+| `note`         | `string` | Holiday description                       |
 
 ## :speech_balloon: Feedback
 
