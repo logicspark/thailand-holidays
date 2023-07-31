@@ -158,7 +158,7 @@
    },
    {
       "nameTh": "วันหยุดราชการเพิ่มกรณีพิเศษ",
-      "nameEn": "Bridge Public Holiday",
+      "nameEn": "Bridge Government Holiday",
       "date": "2023-07-31",
       "holidayTypes": [
          "Government"
